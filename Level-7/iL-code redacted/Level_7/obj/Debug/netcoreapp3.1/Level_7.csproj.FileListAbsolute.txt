@@ -1,0 +1,13 @@
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.exe
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.deps.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.runtimeconfig.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.runtimeconfig.dev.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\bin\Debug\netcoreapp3.1\Level_7.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.csprojAssemblyReference.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.AssemblyInfoInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.AssemblyInfo.cs
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.csproj.CoreCompileInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Level_7\Level_7\obj\Debug\netcoreapp3.1\Level_7.genruntimeconfig.cache
